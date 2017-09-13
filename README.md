@@ -5,6 +5,7 @@ An awesome list that curates the best Egg.js plugins, tools, tutorials, articles
 ## Sections
 
 - [Blog](#blog)
+- [Feed](#feed)
 - [Article](#article)
 - [Tutorial](#tutorial)
 - [Conference](#conference)
@@ -20,11 +21,20 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 
 - [Egg.js 知乎专栏](https://zhuanlan.zhihu.com/eggjs)
 
+## Feed
+
+- [eggjs-feed-01](https://zhuanlan.zhihu.com/p/25207489)
+- [eggjs-feed-02](https://zhuanlan.zhihu.com/p/25223435)
+- [eggjs-feed-03](https://zhuanlan.zhihu.com/p/25457918)
+
 ## Article
 
+- [Egg.js 1.0.0 正式发布 - 企业级 Node.js 框架](https://zhuanlan.zhihu.com/p/25860846)
 - [Egg源码解析之egg-cluster](https://cnodejs.org/topic/597445118f0313ff0d08d712)
 - [结合源码解密egg运行原理](https://github.com/SunShinewyf/issue-blog/issues/30)
 - [Egg.js开发七牛云备份项目总结](https://segmentfault.com/a/1190000010491016)
+- [可能是最好的 JS Assert 库 - 皇帝的新衣](https://zhuanlan.zhihu.com/p/25956323)
+- [Node.js 中 source map 使用问题总结](https://zhuanlan.zhihu.com/p/26267678)
 
 ## Tutorial
 
@@ -37,7 +47,6 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 ## Conference
 
 - [egg - 企业级 node 框架 @天猪](https://github.com/atian25/blog/blob/master/assets/files/egg%20-%20JSConf%20China%202016.pdf)
-- [Egg -- 更好的企业级Node框架](https://yq.aliyun.com/articles/62421?spm=5176.100239.blogcont165098.50.0JPqpp)
 - [Egg.js在阿里巴巴集团的的实践运用 @庄少](https://github.com/Hangzhou-Node-Party/Node-Party/blob/master/2017-08-19/Egg.js%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9B%A2%E7%9A%84%E7%9A%84%E5%AE%9E%E8%B7%B5%E8%BF%90%E7%94%A8.pdf)
 
 
@@ -72,6 +81,10 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 
 ## Boilerplate
 
+- [egg-boilerplate-simple ★5](https://github.com/eggjs/egg-boilerplate-simple) - Boilerplate for egg simple project
+- [egg-boilerplate-empty ★3](https://github.com/eggjs/egg-boilerplate-empty) - Boilerplate for egg simple project, as empty as possible
+- [egg-boilerplate-plugin ★1](https://github.com/eggjs/egg-boilerplate-plugin) - Boilerplate for egg plugin
+- [egg-boilerplate-framework ★1](https://github.com/eggjs/egg-boilerplate-framework) - Boilerplate for egg framework
 - [egg-react-webpack-boilerplate ★16](https://github.com/hubcarl/egg-react-webpack-boilerplate) - 基于Egg + React + Webpack3/Webpack2 多页面和单页面服务器渲染同构工程骨架项目
 - [egg-vue-webpack-boilerplate ★114](https://github.com/hubcarl/egg-vue-webpack-boilerplate) - 基于egg-view-vue, egg-view-vue-ssr, egg-webpack, egg-webpack-vue插件的多页面和单页面服务器渲染同构工程骨架项目
 - [egg-react-mobx-ts-antd ★13](https://github.com/tvrcgo/egg-react-mobx-ts-antd) - Start node with eggjs, react, mobx-react, typescript and ant design.
