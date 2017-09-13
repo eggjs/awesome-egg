@@ -5,7 +5,6 @@ An awesome list that curates the best Egg.js plugins, tools, tutorials, articles
 ## Sections
 
 - [Blog](#blog)
-- [Feed](#feed)
 - [Article](#article)
 - [Tutorial](#tutorial)
 - [Conference](#conference)
@@ -21,15 +20,10 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 
 - [Egg.js 知乎专栏](https://zhuanlan.zhihu.com/eggjs)
 
-## Feed
-
-- [eggjs-feed-01](https://zhuanlan.zhihu.com/p/25207489)
-- [eggjs-feed-02](https://zhuanlan.zhihu.com/p/25223435)
-- [eggjs-feed-03](https://zhuanlan.zhihu.com/p/25457918)
-
 ## Article
 
 - [Egg.js 1.0.0 正式发布 - 企业级 Node.js 框架](https://zhuanlan.zhihu.com/p/25860846)
+- [如何评价阿里开源的企业级 Node.js 框架 EggJS？](https://www.zhihu.com/question/50526101/answer/144952130)
 - [Egg源码解析之egg-cluster](https://cnodejs.org/topic/597445118f0313ff0d08d712)
 - [结合源码解密egg运行原理](https://github.com/SunShinewyf/issue-blog/issues/30)
 - [Egg.js开发七牛云备份项目总结](https://segmentfault.com/a/1190000010491016)
@@ -81,8 +75,8 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 
 ## Boilerplate
 
-- [egg-boilerplate-simple ★5](https://github.com/eggjs/egg-boilerplate-simple) - Boilerplate for egg simple project
 - [egg-boilerplate-empty ★3](https://github.com/eggjs/egg-boilerplate-empty) - Boilerplate for egg simple project, as empty as possible
+- [egg-boilerplate-simple ★5](https://github.com/eggjs/egg-boilerplate-simple) - Boilerplate for egg simple project
 - [egg-boilerplate-plugin ★1](https://github.com/eggjs/egg-boilerplate-plugin) - Boilerplate for egg plugin
 - [egg-boilerplate-framework ★1](https://github.com/eggjs/egg-boilerplate-framework) - Boilerplate for egg framework
 - [egg-react-webpack-boilerplate ★16](https://github.com/hubcarl/egg-react-webpack-boilerplate) - 基于Egg + React + Webpack3/Webpack2 多页面和单页面服务器渲染同构工程骨架项目
