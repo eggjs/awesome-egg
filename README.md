@@ -66,7 +66,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-weapp-sdk](https://github.com/seasonstar/egg-weapp-sdk) - Egg的微信小程序登录会话管理SDK
 - [egg-cockroach](https://github.com/Txiaozhe/egg-cockroach) - CockroachDB 的 eggjs 插件
 - [egg-aliyun-api-gateway](https://github.com/thonatos/egg-aliyun-api-gateway) - aliyun-api-gateway for eggjs
-- [egg-wechat-api](https://github.com/thonatos/egg-wechat-api) - Wechat Api for Egg.js
+- [egg-wechat-api](https://github.com/thonatos/egg-wechat-api) - WechatApi for egg
 
 ## Applications
 
@@ -88,6 +88,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-react-mobx-ts-antd](https://github.com/tvrcgo/egg-react-mobx-ts-antd) - Start node with eggjs, react, mobx-react, typescript and ant design.
 - [egg-react-mobx-webpack2-boilerplate](https://github.com/BoizZ/egg-react-mobx-webpack2-boilerplate) - a quick boilerplate
 - [egg-multi-boilerplate](https://github.com/sydeEvans/egg-multi-boilerplate) - eggjs 的 boilerplate 项目 综合了webpack,browserSync的多页应用配置
+- [generator-eggjs](https://github.com/thonatos/generator-eggjs) - Yeoman generator for egg
 
 ## Frameworks
 
