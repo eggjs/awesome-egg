@@ -68,7 +68,6 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-aliyun-api-gateway](https://github.com/thonatos/egg-aliyun-api-gateway) - aliyun-api-gateway for eggjs
 - [egg-wechat-api](https://github.com/thonatos/egg-wechat-api) - Wechat Api for Egg.js
 
-
 ## Applications
 
 - [API Mocker](https://github.com/DXY-F2E/api-mocker) - Api Mocker is more of an api management system than a mocker
