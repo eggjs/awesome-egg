@@ -44,7 +44,8 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg - 企业级 node 框架 @天猪](https://github.com/atian25/blog/blob/master/assets/files/egg%20-%20JSConf%20China%202016.pdf)
 - [Egg.js在阿里巴巴集团的的实践运用 @庄少](https://github.com/Hangzhou-Node-Party/Node-Party/blob/master/2017-08-19/Egg.js%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9B%A2%E7%9A%84%E7%9A%84%E5%AE%9E%E8%B7%B5%E8%BF%90%E7%94%A8.pdf)
 - [Egg & Node.js 从小工坊走向企业级开发 @天猪](https://github.com/atian25/blog/raw/master/assets/files/Egg%20%26%20Node.js%20%E4%BB%8E%E5%B0%8F%E5%B7%A5%E5%9D%8A%E8%B5%B0%E5%90%91%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%BC%80%E5%8F%91.pdf)
-- [脆弱的Node.js - Security risk in Node Web](https://github.com/jtyjty99999/share/raw/master/security%20risk%20in%20node%20web.pdf)
+- [脆弱的Node.js - Security risk in Node Web @姜天意](https://github.com/jtyjty99999/share/raw/master/security%20risk%20in%20node%20web.pdf)
+- [Node.js at Alibaba [A] @Joyee Cheung](https://www.youtube.com/watch?v=1w-DyxiMU4w&index=17&list=PLfMzBWSH11xa-iNnQG2555lgi4574nZOh)
 
 ## Plugins
 
