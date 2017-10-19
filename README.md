@@ -58,7 +58,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-grpc](https://github.com/eggjs/egg-grpc) - grpc plugin for egg
 - [egg-zookeeper](https://github.com/eggjs/egg-zookeeper) - zookeeper plugin for egg
 - [egg-dingtalk](https://github.com/eggjs/egg-dingtalk) - dingtalk plugin for egg
-- [egg-redis](https://github.com/eggjs/egg-dingtalk) - redis plugin for egg
+- [egg-redis](https://github.com/eggjs/egg-redis) - redis plugin for egg
 - [egg-session-redis](https://github.com/eggjs/egg-session-redis) - redis store for egg session
 - [egg-mongoose](https://github.com/eggjs/egg-mongoose) - mongoose plugin for egg
 - [egg-rest](https://github.com/eggjs/egg-rest) - Restful API plugin for egg
