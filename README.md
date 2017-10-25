@@ -12,7 +12,6 @@ An awesome list that curates the best Egg.js plugins, tools, tutorials, articles
 - [Applications](#applications)
 - [Boilerplates](#boilerplates)
 - [Frameworks](#frameworks)
-- [Showcases](#showcases)
 
 Many thanks to everyone on the [contributor list](https://github.com/eggjs/awesome-egg/graphs/contributors) :)
 
@@ -77,6 +76,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-mongodb-example](https://github.com/fomenyesu/egg-mongodb-example) - a example of eggjs, mongodb, restful api and other stuff made it work...
 - [hamkd](https://github.com/malun666/hamkd) - 寒门知识社区官网源码
 - [eggcms](https://github.com/noikiy/eggcms) - EggCms - 基于Eggjs的内容管理系统
+- [mtime](https://github.com/OrangeXC/mtime) - A MVC mTime websit build with egg
 
 ## Boilerplates
 
@@ -94,7 +94,4 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 ## Frameworks
 
 - [aliyun-egg](https://github.com/eggjs/aliyun-egg) - node web framework for aliyun, base on eggjs
-
-## Showcases
-
-- [boxopened](https://www.boxopened.com/)
+- [EggBorn.js](https://github.com/zhennann/egg-born) - The Ultimate Javascript Full Stack Framework
