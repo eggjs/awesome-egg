@@ -67,6 +67,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-cockroach](https://github.com/Txiaozhe/egg-cockroach) - CockroachDB 的 eggjs 插件
 - [egg-aliyun-api-gateway](https://github.com/thonatos/egg-aliyun-api-gateway) - aliyun-api-gateway for eggjs
 - [egg-wechat-api](https://github.com/thonatos/egg-wechat-api) - WechatApi for egg
+- [egg-loopback](https://github.com/bqxu/egg-loopback) - Loopback plugin for egg (nosql for mysql,mongoo,redis,Oracle,PostgreSQL..)
 
 ## Applications
 
