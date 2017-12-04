@@ -94,5 +94,6 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 
 ## Frameworks
 
+- [beidou](https://github.com/alibaba/beidou) - Isomorphic framework for server-rendered React apps
 - [aliyun-egg](https://github.com/eggjs/aliyun-egg) - node web framework for aliyun, base on eggjs
 - [EggBorn.js](https://github.com/zhennann/egg-born) - The Ultimate Javascript Full Stack Framework
