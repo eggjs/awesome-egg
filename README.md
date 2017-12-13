@@ -68,6 +68,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-aliyun-api-gateway](https://github.com/thonatos/egg-aliyun-api-gateway) - aliyun-api-gateway for eggjs
 - [egg-wechat-api](https://github.com/thonatos/egg-wechat-api) - WechatApi for egg
 - [egg-loopback](https://github.com/bqxu/egg-loopback) - Loopback plugin for egg (nosql for mysql,mongoo,redis,Oracle,PostgreSQL..)
+- [egg-mongo-native](https://github.com/brickyang/egg-mongo-native) - The native MongoDB driver for Egg.js
 
 ## Applications
 
