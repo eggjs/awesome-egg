@@ -93,6 +93,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-multi-boilerplate](https://github.com/sydeEvans/egg-multi-boilerplate) - eggjs 的 boilerplate 项目 综合了webpack,browserSync的多页应用配置
 - [generator-eggjs](https://github.com/thonatos/generator-eggjs) - Yeoman generator for egg
 - [egg-mix](https://github.com/sinchang/egg-mix) - 基于 Laravel Mix 和 Egg 的后端渲染多页应用工程化脚手架
+- [egg-ts-boilerplate](https://github.com/brickyang/egg-ts-boilerplate) - 用 TypeScript 写 Egg 应用
 
 ## Frameworks
 
