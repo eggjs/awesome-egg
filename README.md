@@ -79,6 +79,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [hamkd](https://github.com/malun666/hamkd) - 寒门知识社区官网源码
 - [mtime](https://github.com/OrangeXC/mtime) - A MVC mTime websit build with egg
 - [egg-RESTfulAPI](https://github.com/icxcat/egg-RESTfulAPI) - 基于Egg.js 2.0 & {mongoose,jwt,upload}等RESTful API 模板，用于快速集成开发RESTful前后端分离的服务端，接口处理良好适配Ant Desigin Pro
+- [egg-commerce](https://github.com/sfyr111/egg-commerce) - 使用egg + sequelizejs 搭建的电商平台，集成支付宝面对面支付、手机唤醒客户端支付
 
 ## Boilerplates
 
