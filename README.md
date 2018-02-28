@@ -52,7 +52,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-sequelize](https://github.com/eggjs/egg-sequelize) - Sequelize for Egg.js
 - [egg-socket.io](https://github.com/eggjs/egg-socket.io) - egg plugin for socket.io
 - [egg-tracer](https://github.com/eggjs/egg-tracer) - tracer plugin for egg
-- [egg-alinode](https://github.com/eggjs/egg-alinode) - alinode plugin for egg https://alinode.aliyun.com/
+- [egg-alinode](https://github.com/eggjs/egg-alinode) - alinode plugin for egg https://node.console.aliyun.com
 - [egg-leancloud](https://github.com/eggjs/egg-leancloud) - leancloud plugin for Egg.js
 - [egg-grpc](https://github.com/eggjs/egg-grpc) - grpc plugin for egg
 - [egg-zookeeper](https://github.com/eggjs/egg-zookeeper) - zookeeper plugin for egg
