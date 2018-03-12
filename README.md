@@ -69,7 +69,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-wechat-api](https://github.com/thonatos/egg-wechat-api) - WechatApi for egg
 - [egg-loopback](https://github.com/bqxu/egg-loopback) - Loopback plugin for egg (nosql for mysql,mongoo,redis,Oracle,PostgreSQL..)
 - [egg-mongo-native](https://github.com/brickyang/egg-mongo-native) - The native MongoDB driver for Egg.js
-
+-  [egg-mongolass](https://github.com/Sunshine168/egg-mongolass) - mongolass plugins for Egg
 ## Applications
 
 - [egg-co](https://github.com/Sunshine168/co-example-server) React+Egg 的一个在线协作聊天室
