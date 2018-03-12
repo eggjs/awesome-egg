@@ -69,9 +69,10 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-wechat-api](https://github.com/thonatos/egg-wechat-api) - WechatApi for egg
 - [egg-loopback](https://github.com/bqxu/egg-loopback) - Loopback plugin for egg (nosql for mysql,mongoo,redis,Oracle,PostgreSQL..)
 - [egg-mongo-native](https://github.com/brickyang/egg-mongo-native) - The native MongoDB driver for Egg.js
-
+-  [egg-mongolass](https://github.com/Sunshine168/egg-mongolass) - mongolass plugins for Egg
 ## Applications
 
+- [egg-co](https://github.com/Sunshine168/co-example-server) React+Egg 的一个在线协作聊天室
 - [egg-ant-design-pro](https://github.com/eggjs/egg-ant-design-pro) Egg love Ant Design Pro
 - [API Mocker](https://github.com/DXY-F2E/api-mocker) - Api Mocker is more of an api management system than a mocker
 - [egg-24time](https://github.com/seasonstar/egg-24time) - A Twitter-like news and social server for Egg. 微信小程序社区全栈解决方案
@@ -103,3 +104,5 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [aliyun-egg](https://github.com/eggjs/aliyun-egg) - node web framework for aliyun, base on eggjs
 - [avet](https://github.com/avetjs/avet) - A very comfortable framework for writing isomorphic applications
 - [EggBorn.js](https://github.com/zhennann/egg-born) - The Ultimate Javascript Full Stack Framework
+
+
