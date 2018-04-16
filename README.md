@@ -73,6 +73,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 
 ## Applications
 
+- [egg-cnode](https://github.com/cnodejs/egg-cnode) The largest Chinese Node.js forum that rewritten in egg.js
 - [egg-ant-design-pro](https://github.com/eggjs/egg-ant-design-pro) Egg love Ant Design Pro
 - [API Mocker](https://github.com/DXY-F2E/api-mocker) - Api Mocker is more of an api management system than a mocker
 - [egg-24time](https://github.com/seasonstar/egg-24time) - A Twitter-like news and social server for Egg. 微信小程序社区全栈解决方案
