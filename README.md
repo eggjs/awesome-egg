@@ -62,6 +62,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-mongoose](https://github.com/eggjs/egg-mongoose) - mongoose plugin for egg
 - [egg-rest](https://github.com/eggjs/egg-rest) - Restful API plugin for egg
 - [egg-validate](https://github.com/eggjs/egg-validate) - validate plugin for egg
+- [egg-valid](https://github.com/hexindai/egg-valid) - another validate plugin for egg
 - [egg-oss](https://github.com/eggjs/egg-oss) - aliyun oss plugin for egg
 - [egg-weapp-sdk](https://github.com/seasonstar/egg-weapp-sdk) - Egg的微信小程序登录会话管理SDK
 - [egg-cockroach](https://github.com/Txiaozhe/egg-cockroach) - CockroachDB 的 eggjs 插件
