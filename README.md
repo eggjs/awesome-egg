@@ -48,29 +48,32 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 
 ## Plugins
 
+- [egg-alinode](https://github.com/eggjs/egg-alinode) - alinode plugin for egg https://node.console.aliyun.com
+- [egg-aliyun-api-gateway](https://github.com/thonatos/egg-aliyun-api-gateway) - aliyun-api-gateway for eggjs
+- [egg-bull](https://github.com/brickyang/egg-bull) - The fastest, most reliable, Redis-based queue for Egg.js
+- [egg-cockroach](https://github.com/Txiaozhe/egg-cockroach) - CockroachDB 的 eggjs 插件
+- [egg-dingtalk](https://github.com/eggjs/egg-dingtalk) - dingtalk plugin for egg
 - [egg-graphql](https://github.com/eggjs/egg-graphql) - Graphql for Egg.js
+- [egg-grpc](https://github.com/eggjs/egg-grpc) - grpc plugin for egg
+- [egg-leancloud](https://github.com/eggjs/egg-leancloud) - leancloud plugin for Egg.js
+- [egg-loopback](https://github.com/bqxu/egg-loopback) - Loopback plugin for egg (nosql for mysql,mongoo,redis,Oracle,PostgreSQL..)
+- [egg-mongoose](https://github.com/eggjs/egg-mongoose) - mongoose plugin for egg
+- [egg-mongo-native](https://github.com/brickyang/egg-mongo-native) - The native MongoDB driver for Egg.js
+- [egg-oss](https://github.com/eggjs/egg-oss) - aliyun oss plugin for egg
+- [egg-rbac](https://github.com/lidianhao123/egg-rbac) - Role Based Access Control for eggjs (now support RBAC0 level)
+- [egg-redis](https://github.com/eggjs/egg-redis) - redis plugin for egg
+- [egg-rest](https://github.com/eggjs/egg-rest) - Restful API plugin for egg
+- [egg-router-plus](https://github.com/eggjs/egg-router-plus) - The missing router feature for eggjs
 - [egg-sequelize](https://github.com/eggjs/egg-sequelize) - Sequelize for Egg.js
+- [egg-session-redis](https://github.com/eggjs/egg-session-redis) - redis store for egg session
 - [egg-socket.io](https://github.com/eggjs/egg-socket.io) - egg plugin for socket.io
 - [egg-tracer](https://github.com/eggjs/egg-tracer) - tracer plugin for egg
-- [egg-alinode](https://github.com/eggjs/egg-alinode) - alinode plugin for egg https://node.console.aliyun.com
-- [egg-leancloud](https://github.com/eggjs/egg-leancloud) - leancloud plugin for Egg.js
-- [egg-grpc](https://github.com/eggjs/egg-grpc) - grpc plugin for egg
-- [egg-zookeeper](https://github.com/eggjs/egg-zookeeper) - zookeeper plugin for egg
-- [egg-dingtalk](https://github.com/eggjs/egg-dingtalk) - dingtalk plugin for egg
-- [egg-redis](https://github.com/eggjs/egg-redis) - redis plugin for egg
-- [egg-session-redis](https://github.com/eggjs/egg-session-redis) - redis store for egg session
-- [egg-mongoose](https://github.com/eggjs/egg-mongoose) - mongoose plugin for egg
-- [egg-rest](https://github.com/eggjs/egg-rest) - Restful API plugin for egg
+- [egg-userrole](https://github.com/eggjs/egg-userrole) - user role plugin for egg
 - [egg-validate](https://github.com/eggjs/egg-validate) - validate plugin for egg
-- [egg-oss](https://github.com/eggjs/egg-oss) - aliyun oss plugin for egg
 - [egg-weapp-sdk](https://github.com/seasonstar/egg-weapp-sdk) - Egg的微信小程序登录会话管理SDK
-- [egg-cockroach](https://github.com/Txiaozhe/egg-cockroach) - CockroachDB 的 eggjs 插件
-- [egg-aliyun-api-gateway](https://github.com/thonatos/egg-aliyun-api-gateway) - aliyun-api-gateway for eggjs
 - [egg-wechat-api](https://github.com/thonatos/egg-wechat-api) - WechatApi for egg
-- [egg-loopback](https://github.com/bqxu/egg-loopback) - Loopback plugin for egg (nosql for mysql,mongoo,redis,Oracle,PostgreSQL..)
-- [egg-mongo-native](https://github.com/brickyang/egg-mongo-native) - The native MongoDB driver for Egg.js
-- [egg-rbac](https://github.com/lidianhao123/egg-rbac) - Role Based Access Control for eggjs (now support RBAC0 level)
-- [egg-bull](https://github.com/brickyang/egg-bull) - The fastest, most reliable, Redis-based queue for Egg.js
+- [egg-zookeeper](https://github.com/eggjs/egg-zookeeper) - zookeeper plugin for egg
+
 
 ## Applications
 
