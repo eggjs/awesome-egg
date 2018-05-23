@@ -69,6 +69,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-socket.io](https://github.com/eggjs/egg-socket.io) - egg plugin for socket.io
 - [egg-tracer](https://github.com/eggjs/egg-tracer) - tracer plugin for egg
 - [egg-userrole](https://github.com/eggjs/egg-userrole) - user role plugin for egg
+- [egg-valid](https://github.com/hexindai/egg-valid) - another validate plugin for egg
 - [egg-validate](https://github.com/eggjs/egg-validate) - validate plugin for egg
 - [egg-weapp-sdk](https://github.com/seasonstar/egg-weapp-sdk) - Egg的微信小程序登录会话管理SDK
 - [egg-wechat-api](https://github.com/thonatos/egg-wechat-api) - WechatApi for egg
