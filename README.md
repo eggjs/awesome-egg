@@ -52,6 +52,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-aliyun-api-gateway](https://github.com/thonatos/egg-aliyun-api-gateway) - aliyun-api-gateway for eggjs
 - [egg-bull](https://github.com/brickyang/egg-bull) - The fastest, most reliable, Redis-based queue for Egg.js
 - [egg-cockroach](https://github.com/Txiaozhe/egg-cockroach) - CockroachDB 的 eggjs 插件
+- [egg-datahub](https://github.com/macacajs/egg-datahub) - Macaca [DataHub](//github.com/macacajs/macaca-datahub) plugin for Egg.js
 - [egg-dingtalk](https://github.com/eggjs/egg-dingtalk) - dingtalk plugin for egg
 - [egg-graphql](https://github.com/eggjs/egg-graphql) - Graphql for Egg.js
 - [egg-grpc](https://github.com/eggjs/egg-grpc) - grpc plugin for egg
@@ -74,7 +75,6 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-weapp-sdk](https://github.com/seasonstar/egg-weapp-sdk) - Egg的微信小程序登录会话管理SDK
 - [egg-wechat-api](https://github.com/thonatos/egg-wechat-api) - WechatApi for egg
 - [egg-zookeeper](https://github.com/eggjs/egg-zookeeper) - zookeeper plugin for egg
-
 
 ## Applications
 
