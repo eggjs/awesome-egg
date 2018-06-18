@@ -60,6 +60,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-loopback](https://github.com/bqxu/egg-loopback) - Loopback plugin for egg (nosql for mysql,mongoo,redis,Oracle,PostgreSQL..)
 - [egg-mongoose](https://github.com/eggjs/egg-mongoose) - mongoose plugin for egg
 - [egg-mongo-native](https://github.com/brickyang/egg-mongo-native) - The native MongoDB driver for Egg.js
+- [egg-neo4j](https://github.com/cemremengu/egg-neo4j) - Neo4j plugin for egg framework
 - [egg-oss](https://github.com/eggjs/egg-oss) - aliyun oss plugin for egg
 - [egg-rbac](https://github.com/lidianhao123/egg-rbac) - Role Based Access Control for eggjs (now support RBAC0 level)
 - [egg-redis](https://github.com/eggjs/egg-redis) - redis plugin for egg
