@@ -112,3 +112,5 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [aliyun-egg](https://github.com/eggjs/aliyun-egg) - node web framework for aliyun, base on eggjs
 - [avet](https://github.com/avetjs/avet) - A very comfortable framework for writing isomorphic applications
 - [EggBorn.js](https://github.com/zhennann/egg-born) - The Ultimate Javascript Full Stack Framework
+- [Cabloy.js](https://github.com/zhennann/cabloy) - The Ultimate Javascript Full Stack Business Development Platform, based on EggBorn.js & eggjs
+
