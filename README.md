@@ -65,6 +65,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-rbac](https://github.com/lidianhao123/egg-rbac) - Role Based Access Control for eggjs (now support RBAC0 level)
 - [egg-redis](https://github.com/eggjs/egg-redis) - redis plugin for egg
 - [egg-rest](https://github.com/eggjs/egg-rest) - Restful API plugin for egg
+- [egg-router-group](https://github.com/zzzs/egg-router-group) - have the ability to route group operations for egg
 - [egg-router-plus](https://github.com/eggjs/egg-router-plus) - The missing router feature for eggjs
 - [egg-sequelize](https://github.com/eggjs/egg-sequelize) - Sequelize for Egg.js
 - [egg-session-redis](https://github.com/eggjs/egg-session-redis) - redis store for egg session
