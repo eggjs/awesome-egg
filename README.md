@@ -12,6 +12,7 @@ An awesome list that curates the best Egg.js plugins, tools, tutorials, articles
 - [Applications](#applications)
 - [Boilerplates](#boilerplates)
 - [Frameworks](#frameworks)
+- [APM Solution](#apm-solution)
 
 Many thanks to everyone on the [contributor list](https://github.com/eggjs/awesome-egg/graphs/contributors) :)
 
@@ -113,3 +114,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [aliyun-egg](https://github.com/eggjs/aliyun-egg) - node web framework for aliyun, base on eggjs
 - [avet](https://github.com/avetjs/avet) - A very comfortable framework for writing isomorphic applications
 - [EggBorn.js](https://github.com/zhennann/egg-born) - The Ultimate Javascript Full Stack Framework
+
+## APM Solution
+
+- [Skywalking Node.js](https://github.com/OpenSkywalking/skywalking-nodejs) - Apache SkyWalking(incubator) provides an APM solution for Node.js server application
