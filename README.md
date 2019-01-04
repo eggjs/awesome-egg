@@ -79,7 +79,8 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-weapp-sdk](https://github.com/seasonstar/egg-weapp-sdk) - Egg的微信小程序登录会话管理SDK
 - [egg-wechat-api](https://github.com/thonatos/egg-wechat-api) - WechatApi for egg
 - [egg-zookeeper](https://github.com/eggjs/egg-zookeeper) - zookeeper plugin for egg
-- [egg-hashids](https://github.com/weihongyu12/egg-hashids) - generate a short unique ID from the integer for eg
+- [egg-hashids](https://github.com/weihongyu12/egg-hashids) - generate a short unique ID from the integer for egg
+- [egg-token](https://github.com/codetrial/egg-token) - Token-based API authentication plugin for egg
 
 ## Applications
 
