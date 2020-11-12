@@ -51,6 +51,7 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 
 - [egg-alinode](https://github.com/eggjs/egg-alinode) - alinode plugin for egg https://node.console.aliyun.com
 - [egg-aliyun-api-gateway](https://github.com/thonatos/egg-aliyun-api-gateway) - aliyun-api-gateway for eggjs
+- [egg-apigw-tracer](https://github.com/inlym/egg-apigw-tracer) - 适配 API 网关的 HTTP 请求示踪器，用于 Egg.js 框架
 - [egg-bull](https://github.com/brickyang/egg-bull) - The fastest, most reliable, Redis-based queue for Egg.js
 - [egg-cockroach](https://github.com/Txiaozhe/egg-cockroach) - CockroachDB 的 eggjs 插件
 - [egg-datahub](https://github.com/macacajs/egg-datahub) - Macaca [DataHub](//github.com/macacajs/macaca-datahub) plugin for Egg.js
