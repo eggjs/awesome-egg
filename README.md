@@ -80,7 +80,9 @@ Many thanks to everyone on the [contributor list](https://github.com/eggjs/aweso
 - [egg-weapp-sdk](https://github.com/seasonstar/egg-weapp-sdk) - Egg的微信小程序登录会话管理SDK
 - [egg-wechat-api](https://github.com/thonatos/egg-wechat-api) - WechatApi for egg
 - [egg-zookeeper](https://github.com/eggjs/egg-zookeeper) - zookeeper plugin for egg
-- [egg-hashids](https://github.com/weihongyu12/egg-hashids) - generate a short unique ID from the integer for eg
+- [egg-hashids](https://github.com/weihongyu12/egg-hashids) - generate a short unique ID from the integer for egg
+- [egg-esapi](https://github.com/weihongyu12/egg-esapi) - ESAPI plugin for egg
+- [egg-html-purify](https://github.com/weihongyu12/egg-html-purify) - HTML5 Purifier plugin for egg
 
 ## Applications
 
